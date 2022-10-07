@@ -1,0 +1,24 @@
+{
+  "name": "tutorialpixijs",
+  "version": "1.0.0",
+  "description": "Example PIXIJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramses2099/tutorialpixijs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramses2099/tutorialpixijs/issues"
+  },
+  "homepage": "https://github.com/ramses2099/tutorialpixijs#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
